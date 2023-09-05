@@ -4,3 +4,5 @@
  Repositório criado durante aula sobre GIT e GITHub
 
 Apenas mais uma linha para teste.
+
+Adicionando essa linha direto do repositorio remoto
